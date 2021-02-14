@@ -21,6 +21,7 @@ nav {
     margin: 6px 0;
     transition: 0.4s;
     width: 2rem;
+    height: 0.3rem;
   }
 
   .collapsible input[id^=collapsible]:checked + button, // Leaving for backwards compatibility. See docs for proper usage
